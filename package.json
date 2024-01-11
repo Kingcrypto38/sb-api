@@ -60,7 +60,7 @@
     "lnd-async": "1.8.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
-    "uuid": "^3.3.2",
+    "uuid": "^9.0.1",
     "ws": "^6.1.3"
   }
 }
