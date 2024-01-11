@@ -54,7 +54,7 @@
     "bolt11": "^1.2.6",
     "crypto-js": "^3.1.9-1",
     "debug": "^4.1.1",
-    "io-ts": "1.8.1",
+    "io-ts": "2.2.21",
     "io-ts-types": "0.4.2",
     "lightning-client": "^0.5.2-beta.8",
     "lnd-async": "1.8.0",
